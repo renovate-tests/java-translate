@@ -10,6 +10,7 @@
     ":maintainLockFilesDisabled",
     ":autodetectPinVersions"
   ],
+  "baseBranches": ["reproduce"],
   "packageRules": [
     {
       "packagePatterns": [
